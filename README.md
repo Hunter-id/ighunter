@@ -7,7 +7,9 @@
 
 # Install
 git clone https://github.com/Hunter-id/ighunter
+
 cd ighunter
+
 python Run.py
 
 # Update
